@@ -1,8 +1,8 @@
 
-PROJECT DETAILS
-MODULES
+### PROJECT DETAILS
+### MODULES
 In this Inventory Management System project, we use PHP and MySQL Database. This project has Admin module which has many submodules.
-3.1 ADMIN
+### 3.1 ADMIN
        1. LOGIN PANEL: Admin can login with the registered username and password.
        2. PROFILE: Admin can edit their profile details.
        3. DASHBOARD: can view total no of users, categories, products, sales.
