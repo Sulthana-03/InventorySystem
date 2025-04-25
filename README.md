@@ -16,12 +16,12 @@ In this Inventory Management System project, we use PHP and MySQL Database. This
       11. SALES REPORT: Admin can generate sales report and profit details in particular dates.
       12. INVOICE REPORT: Admin can generate invoice report and profit details in particular dates. 
  
-USERNAME : admin
-PASSWORD : admin
+### USERNAME : admin
+### PASSWORD : admin
 
-SOFTWARE REQUIREMENTS
+### SOFTWARE REQUIREMENTS
 •	Operating System	:	Windows 11
-•	Plug-in	:	XAMPP Server
-•	Back-End	:	PHP/MYSQL
-•	Framework	:	BOOTSTRAP
-•	Front-End	:	HTML, CSS, JAVASCRIPT
+•	Plug-in	       :	XAMPP Server
+•	Back-End	       :	PHP/MYSQL
+•	Framework	       :	BOOTSTRAP
+•	Front-End	       :	HTML, CSS, JAVASCRIPT
