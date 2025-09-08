@@ -44,7 +44,7 @@ In this Inventory Management System project, we use PHP and MySQL Database. This
 
 ### Sales management
 
-![alt text](iages/image-6.png)
+![alt text](images/image-6.png)
 
 ### Invoice report
 
