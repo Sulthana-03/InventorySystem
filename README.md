@@ -20,34 +20,34 @@ In this Inventory Management System project, we use PHP and MySQL Database. This
 
 ### Admin login
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### Dashboard
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ### User management
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ### Vendor management
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ### Invoice management
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ### Product management
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 ### Sales management
 
-![alt text](image-6.png)
+![alt text](iages/image-6.png)
 
 ### Invoice report
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 
